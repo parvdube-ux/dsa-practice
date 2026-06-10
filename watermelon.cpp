@@ -1,3 +1,10 @@
+// Problem: 4A - Watermelon
+// Platform: Codeforces
+// Language: C++
+// Verdict: Accepted
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
  
