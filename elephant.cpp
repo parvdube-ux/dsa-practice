@@ -1,3 +1,11 @@
+// Problem: 617A - Elephant
+// Platform: Codeforces
+// Language: C++
+// Verdict: Accepted
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
