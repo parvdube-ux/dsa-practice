@@ -11,3 +11,4 @@ This repository contains my solutions to Codeforces problems as part of my DSA a
 | 71A - Way Too Long Words | Java |
 | 1. Two Sum (Leetcode) | Java |
 | Second Max Element in array - Practice | Java |
+| 734A - Anton and Danik | Java |
