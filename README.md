@@ -14,3 +14,4 @@ This repository contains my solutions to Codeforces problems as part of my DSA a
 | 734A - Anton and Danik | Java |
 | Check if Array is Sorted | Java |
 | 1431. Kids with greatest candies | Java |
+| 339A - Helpful Math | Java |
