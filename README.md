@@ -16,3 +16,4 @@ This repository contains my solutions to Codeforces problems as part of my DSA a
 | 1431. Kids with greatest candies (Leetcode) | Java |
 | 339A - Helpful Math | Java |
 | Left Rotate by 1 - Practice | Java |
+| 283. Move Zeroes (Leetcode) | Java |
