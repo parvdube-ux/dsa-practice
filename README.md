@@ -24,4 +24,5 @@ This repository contains my solutions to Codeforces problems as part of my DSA a
 | 125. Valid Palindrome (Leetcode) | Java |
 | 509. Fibonacci Number (Leetcode) | Java |
 | 1295. Find no's with even no of digits | Java |
+| 236A - Boy or Girl | Java |
 
