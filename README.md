@@ -15,3 +15,4 @@ This repository contains my solutions to Codeforces problems as part of my DSA a
 | Check if Array is Sorted - Practice | Java |
 | 1431. Kids with greatest candies (Leetcode) | Java |
 | 339A - Helpful Math | Java |
+| Left Rotate by 1 - Practice | Java |
