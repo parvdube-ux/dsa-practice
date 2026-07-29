@@ -29,5 +29,6 @@ This repository contains my solutions to Codeforces & Leetcode problems as part 
 | Binary Search - Practice | Java |
 | Linear Search - Practice | Java |
 | 1470. Shuffle the array | Java |
+| 200B - Drinks | Java |
 
 
