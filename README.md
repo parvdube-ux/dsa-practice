@@ -26,7 +26,8 @@ This repository contains my solutions to Codeforces & Leetcode problems as part 
 | 1295. Find no's with even no of digits | Java |
 | 236A - Boy or Girl | Java |
 | 1512. Number of Good Pairs (Leetcode) | Java |
-| Binary Search (Practice) | Java |
-| Linear Search (Practice) | Java |
+| Binary Search - Practice | Java |
+| Linear Search - Practice | Java |
+| 1470. Shuffle the array | Java |
 
 
