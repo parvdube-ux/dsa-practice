@@ -1,6 +1,6 @@
-# Codeforces Solutions
+# Codeforces & Leetcode Solutions
 
-This repository contains my solutions to Codeforces problems as part of my DSA and Competitive Programming journey.
+This repository contains my solutions to Codeforces & Leetcode problems as part of my DSA and Competitive Programming journey.
 
 ## Solved Problems
 
