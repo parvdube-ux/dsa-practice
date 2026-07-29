@@ -28,7 +28,7 @@ This repository contains my solutions to Codeforces & Leetcode problems as part 
 | 1512. Number of Good Pairs (Leetcode) | Java |
 | Binary Search - Practice | Java |
 | Linear Search - Practice | Java |
-| 1470. Shuffle the array | Java |
+| 1470. Shuffle the array (Leetcode) | Java |
 | 200B - Drinks | Java |
 
 
