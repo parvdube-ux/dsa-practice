@@ -30,5 +30,8 @@ This repository contains my solutions to Codeforces & Leetcode problems as part 
 | Linear Search - Practice | Java |
 | 1470. Shuffle the array (Leetcode) | Java |
 | 200B - Drinks | Java |
+| 152. Maximum Product of Subarray (Leetcode) | Java |
+| 2428. Maximum Sum of an Hourglass (Leetcode) | Java |
+| 169. Majority Element (Leetcode) | Java |
 
 
