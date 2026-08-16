@@ -33,5 +33,6 @@ This repository contains my solutions to Codeforces & Leetcode problems as part 
 | 152. Maximum Product of Subarray (Leetcode) | Java |
 | 2428. Maximum Sum of an Hourglass (Leetcode) | Java |
 | 169. Majority Element (Leetcode) | Java |
+| 1572. Matrix Diagonal Sum (Leetcode) | Java |
 
 
