@@ -1,38 +1,63 @@
-# Codeforces & Leetcode Solutions
+# Codeforces & LeetCode Solutions
 
-This repository contains my solutions to Codeforces & Leetcode problems as part of my DSA and Competitive Programming journey.
+This repository contains my solutions to Codeforces & LeetCode problems as part of my DSA and Competitive Programming journey.
 
-## Solved Problems
+## 🟨 LeetCode
 
-| Problem | Solution |
-|----------|----------|
+| Problem | Language |
+|---------|----------|
+| 1. Two Sum | Java |
+| 7. Reverse Integer | Java |
+| 9. Palindrome Number | Java |
+| 125. Valid Palindrome | Java |
+| 1431. Kids With the Greatest Number of Candies | Java |
+| 152. Maximum Product Subarray | Java |
+| 169. Majority Element | Java |
+| 283. Move Zeroes | Java |
+| 509. Fibonacci Number | Java |
+| 1470. Shuffle the Array | Java |
+| 1512. Number of Good Pairs | Java |
+| 1572. Matrix Diagonal Sum | Java |
+| 1920. Build Array from Permutation | Java |
+| 1929. Concatenation of Array | Java |
+| 2428. Maximum Sum of an Hourglass | Java |
+| 412. Fizz Buzz | Java |
+
+---
+
+## 🟦 Codeforces
+
+| Problem | Language |
+|---------|----------|
 | 4A - Watermelon | C++ |
 | 617A - Elephant | C++ |
 | 71A - Way Too Long Words | Java |
-| 1. Two Sum (Leetcode) | Java |
-| Second Max Element in array - Practice | Java |
+| 231A - Team | Java |
 | 734A - Anton and Danik | Java |
-| Check if Array is Sorted - Practice | Java |
-| 1431. Kids with greatest candies (Leetcode) | Java |
-| 339A - Helpful Math | Java |
-| Left Rotate by 1 - Practice | Java |
-| 283. Move Zeroes (Leetcode) | Java |
-| 1920. Build Array from Permutation (Leetcode) | Java |
-| 1929. Concatenation of Array (Leetcode) | Java |
-| 7. Reverse Integer (Leetcode) | Java |
-| 9. Palindrome Number (Leetcode) | Java |
-| 125. Valid Palindrome (Leetcode) | Java |
-| 509. Fibonacci Number (Leetcode) | Java |
-| 1295. Find no's with even no of digits | Java |
+| 339A - Helpful Maths | Java |
 | 236A - Boy or Girl | Java |
-| 1512. Number of Good Pairs (Leetcode) | Java |
-| Binary Search - Practice | Java |
-| Linear Search - Practice | Java |
-| 1470. Shuffle the array (Leetcode) | Java |
 | 200B - Drinks | Java |
-| 152. Maximum Product of Subarray (Leetcode) | Java |
-| 2428. Maximum Sum of an Hourglass (Leetcode) | Java |
-| 169. Majority Element (Leetcode) | Java |
-| 1572. Matrix Diagonal Sum (Leetcode) | Java |
+
+---
+
+## 🟩 Practice Problems
+
+| Problem | Language |
+|---------|----------|
+| Second Maximum Element in Array | Java |
+| Check if Array is Sorted | Java |
+| Left Rotate by 1 | Java |
+| Linear Search | Java |
+| Binary Search | Java |
+
+---
+
+## 📊 Progress
+
+- 🟨 LeetCode: 16
+- 🟦 Codeforces: 8
+- 🟩 Practice: 5
+
+Continuously solving problems to improve my DSA, problem-solving, and competitive programming skills.
 
 
