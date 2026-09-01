@@ -49,6 +49,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | Left Rotate by 1 | Java |
 | Linear Search | Java |
 | Binary Search | Java |
+| Largest in Array | Java |
 
 ---
 
@@ -56,7 +57,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 - 🟨 LeetCode: 16
 - 🟦 Codeforces: 8
-- 🟩 Practice: 5
+- 🟩 Practice: 6
 
 Continuously solving problems to improve my DSA, problem-solving, and competitive programming skills.
 
