@@ -22,6 +22,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 1929. Concatenation of Array | Java |
 | 2428. Maximum Sum of an Hourglass | Java |
 | 412. Fizz Buzz | Java |
+| 1752. Check if Array Is Sorted and Rotated | Java |
 
 ---
 
