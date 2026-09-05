@@ -24,6 +24,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 412. Fizz Buzz | Java |
 | 1752. Check if Array Is Sorted and Rotated | Java |
 | 26. Remove Duplicates from Sorted Array | Java |
+| 189. Rotate Array | Java |
 
 
 ---
