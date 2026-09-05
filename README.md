@@ -59,7 +59,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 18
+- 🟨 LeetCode: 19
 - 🟦 Codeforces: 8
 - 🟩 Practice: 6
 
