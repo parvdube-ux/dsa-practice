@@ -25,6 +25,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 1752. Check if Array Is Sorted and Rotated | Java |
 | 26. Remove Duplicates from Sorted Array | Java |
 | 189. Rotate Array | Java |
+| 485. Max Consecutive Ones | Java |
 
 
 ---
@@ -59,7 +60,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 19
+- 🟨 LeetCode: 20
 - 🟦 Codeforces: 8
 - 🟩 Practice: 6
 
