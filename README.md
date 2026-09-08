@@ -62,7 +62,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 20
+- 🟨 LeetCode: 21
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 
