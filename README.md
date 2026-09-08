@@ -55,6 +55,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | Linear Search | Java |
 | Binary Search | Java |
 | Largest in Array | Java |
+| Find Missing Number | Java |
 
 ---
 
@@ -62,7 +63,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 - 🟨 LeetCode: 20
 - 🟦 Codeforces: 8
-- 🟩 Practice: 6
+- 🟩 Practice: 7
 
 Continuously solving problems to improve my DSA, problem-solving, and competitive programming skills.
 
