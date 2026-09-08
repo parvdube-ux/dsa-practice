@@ -26,6 +26,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 26. Remove Duplicates from Sorted Array | Java |
 | 189. Rotate Array | Java |
 | 485. Max Consecutive Ones | Java |
+| 136. Single Number | Java |
 
 
 ---
