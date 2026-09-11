@@ -27,6 +27,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 189. Rotate Array | Java |
 | 485. Max Consecutive Ones | Java |
 | 136. Single Number | Java |
+| 560. Subarray Sum Equals K | Java |
 
 
 ---
@@ -62,9 +63,10 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 21
+- 🟨 LeetCode: 22
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
+- Revisit (560, Leetcode)
 
 Continuously solving problems to improve my DSA, problem-solving, and competitive programming skills.
 
