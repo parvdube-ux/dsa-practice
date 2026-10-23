@@ -28,6 +28,8 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 485. Max Consecutive Ones | Java |
 | 136. Single Number | Java |
 | 560. Subarray Sum Equals K | Java |
+| 75. Sort Colors | Java |
+| 121. Best Time To Buy And Sell Stocks | Java |
 
 
 ---
