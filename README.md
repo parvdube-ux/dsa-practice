@@ -30,6 +30,9 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 560. Subarray Sum Equals K | Java |
 | 75. Sort Colors | Java |
 | 121. Best Time To Buy And Sell Stocks | Java |
+| 2149. Rearrange Array Elements by Sign | Java |
+| 905. Sort Array By Parity | Java |
+
 
 
 ---
