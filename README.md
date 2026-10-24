@@ -68,7 +68,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 24
+- 🟨 LeetCode: 26
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 - Revisit (560, Leetcode)
