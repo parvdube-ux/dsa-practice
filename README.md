@@ -32,6 +32,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 121. Best Time To Buy And Sell Stocks | Java |
 | 2149. Rearrange Array Elements by Sign | Java |
 | 905. Sort Array By Parity | Java |
+| 53. Maximum Subarray | Java |
 
 
 
@@ -68,7 +69,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 26
+- 🟨 LeetCode: 27
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 - Revisit (560, Leetcode)
