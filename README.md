@@ -33,6 +33,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 2149. Rearrange Array Elements by Sign | Java |
 | 905. Sort Array By Parity | Java |
 | 53. Maximum Subarray | Java |
+| 31. Next Permutation | Java |
 
 
 
