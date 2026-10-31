@@ -34,6 +34,8 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 905. Sort Array By Parity | Java |
 | 53. Maximum Subarray | Java |
 | 31. Next Permutation | Java |
+| 128. Largest Consecutive Sequence | Java |
+
 
 
 
@@ -70,7 +72,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 28
+- 🟨 LeetCode: 29
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 - Revisit (560, Leetcode)
