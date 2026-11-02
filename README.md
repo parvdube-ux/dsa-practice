@@ -73,7 +73,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 29
+- 🟨 LeetCode: 30
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 - Revisit (560, Leetcode)
