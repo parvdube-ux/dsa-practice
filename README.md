@@ -36,6 +36,9 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 31. Next Permutation | Java |
 | 128. Largest Consecutive Sequence | Java |
 | 724. Find Pivot Index | Java |
+| 73. Set Matrix Zeroes | Java |
+| 867. Transpose Matrix | Java |
+
 
 
 
