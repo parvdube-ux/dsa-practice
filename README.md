@@ -38,6 +38,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 724. Find Pivot Index | Java |
 | 73. Set Matrix Zeroes | Java |
 | 867. Transpose Matrix | Java |
+| 48. Rotate Image | Java |
 
 
 
