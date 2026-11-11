@@ -39,6 +39,8 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 73. Set Matrix Zeroes | Java |
 | 867. Transpose Matrix | Java |
 | 48. Rotate Image | Java |
+| 118. Pascal Triangle | Java |
+| 119. Pascal Triangle II | Java |
 
 
 
