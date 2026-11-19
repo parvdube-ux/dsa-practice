@@ -43,6 +43,8 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 119. Pascal Triangle II | Java |
 | 229. Majority Element II | Java |
 | 15. 3sum | Java |
+| 414. Third Maximum Number | Java |
+
 
 
 
@@ -82,7 +84,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 38
+- 🟨 LeetCode: 39
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 - Revisit (560, Leetcode)
