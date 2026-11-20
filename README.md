@@ -44,6 +44,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 229. Majority Element II | Java |
 | 15. 3sum | Java |
 | 414. Third Maximum Number | Java |
+| 56. Merge Intervals | Java |
 
 
 
