@@ -45,6 +45,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 15. 3sum | Java |
 | 414. Third Maximum Number | Java |
 | 56. Merge Intervals | Java |
+| 88. Merge Sorted Arrays | Java |
 
 
 
@@ -85,7 +86,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 
 ## 📊 Progress
 
-- 🟨 LeetCode: 40
+- 🟨 LeetCode: 41
 - 🟦 Codeforces: 8
 - 🟩 Practice: 7
 - Revisit (560, Leetcode)
