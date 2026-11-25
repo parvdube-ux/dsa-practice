@@ -46,6 +46,7 @@ This repository contains my solutions to Codeforces & LeetCode problems as part 
 | 414. Third Maximum Number | Java |
 | 56. Merge Intervals | Java |
 | 88. Merge Sorted Arrays | Java |
+| 704. Binary Search | Java |
 
 
 
